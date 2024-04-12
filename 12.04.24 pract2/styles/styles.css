@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter";
+}
+
+.all {
+    width: 581px;
+    height: 1256px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 15px 0px #3263CD;
+    margin: 20px auto;
+    padding: 20px 35px;
+}
+
+.capitel {
+    background-color: #87CEFA;
+    padding: 74px 0 60px;
+    margin-bottom: 5px;
+}
+
+.capitel h1 {
+    color: white;
+    font-family: Inter;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 65px;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.question {
+    display: flex;
+    flex-direction: column;
+}
+
+textarea {
+    resize: none;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 0;
+}
+
+.name-item {
+    width: Fill (512.13px)px;
+height: Hug (108px)px;
+padding: 10px 0px 10px 0px;
+gap: 20px;
+opacity: 0px;
+
+}
